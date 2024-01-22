@@ -1,0 +1,46 @@
+[
+    
+    {
+        "name": "SeedBot 3000",
+        "desc": "A robot that can move around, dig a hole in the soil, plant a seed and even water it. Its goal is to reforest etc.",
+        "img": "/static/SeedBot.png",
+        "link": "https://drive.google.com/file/d/1HcWjQPMC-QhCn69OiUCN56JdY3A6PH94/view"
+    },
+
+    {
+        "name": "Armageddon",
+        "desc": "An cool funfull fun game that is a lot of fun. A game where you play as a space octoupus and your goal is to devour everything. Other plants will send armys and stuff to stop you. It was made for the Major Game Jam with a team lead by an intelectual human (me).",
+        "img": "/static/Armageddon.png",
+        "link": "https://aditya10.itch.io/armageddon"
+    },
+
+    {
+        "name": "CookBot",
+        "desc": "Robot that cooks food using a robotic arm. Ok that was a lie, all it can do is cook an egg. Pretty decent but still our vision was for it to cook anything. Also, this is the first project where i got to use my 3d printer (yes i have a 3d prinder 😎) ",
+        "img": "/static/CookBot.jpg",
+        "link": "https://youtu.be/ofDo9u7lE3A"
+    },
+
+
+    {
+        "name": "Portfolio website",
+        "desc": "This website that i made with html, css and a little python",
+        "img": "/static/Clown.jpg",
+        "link": "https://portfoliowebsite.adityanambidi.repl.co"
+    },
+
+    {
+        "name": "SmartSwitch",
+        "desc": "A switch that is smart. The image is of the current prototype which, i know, looks like a time bomb. but a better version is currently being developed.",
+        "img": "/static/SmartSwitch.png",
+        "link": "https://smartswitch.adityanambidi.repl.co/prototype1"
+    },
+
+    {
+        "name": "Hyper Milling Game",
+        "desc": "A game to show like about hyper milling to see how far you can go by using ur brain and using like slopes and stuff in order to save petrol. We later realized that this was the same as hill climb racing 💀. It was for some hackthon.",
+        "img": "/static/HypermillingGame.png",
+        "link": "https://youtu.be/zycjGOt3j8M"
+    }
+
+]

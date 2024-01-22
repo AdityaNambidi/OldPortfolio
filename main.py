@@ -1,6 +1,5 @@
 from flask import Flask, render_template, request
 import json
-from threading import Thread
 
 app = Flask(__name__)
 
@@ -35,13 +34,5 @@ def home():
     return render_template("index.html", projects=projs)
 
 
-def run():
-    app.run(host='0.0.0.0')
-
-
-def keep_alive():
-    t = Thread(target=run)
-    t.start()
-
-
-keep_alive()
+def create_app():
+    return app
